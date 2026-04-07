@@ -21,11 +21,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amit%2Dsingh%2Dds&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/amit-singh-8599ab2bb
 - Email: ak9117443@gmail.com
