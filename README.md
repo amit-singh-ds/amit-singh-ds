@@ -22,7 +22,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amit-singh-ds&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amit%2Dsingh%2Dds&show_icons=true&theme=tokyonight)
 
 ---
 
