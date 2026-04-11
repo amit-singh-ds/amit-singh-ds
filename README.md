@@ -7,15 +7,17 @@
 ---
 
 ## 🛠️ Skills
-- Python, SQL, R, Java  
+- Python, SQL, Java  
 - Machine Learning  
 - Data Analysis & Visualization  
-- Power BI, BigQuery, GCP  
+- Power BI | BigQuery | GCP 
 
 ---
 
 ## 🔥 Projects
-- AI-RecoHub – AI Hybrid Recommendation System  
+- AI-RecoHub – AI Hybrid Recommendation System
+  → Built using Python, Flask, TF-IDF  
+  → Features: Login system, Admin dashboard, Real-time recommendations  
 - RFID Attendance System (ESP32 + Google Sheets)  
 - Smart Home Security System (IoT + Telegram Alerts)  
 
