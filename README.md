@@ -21,6 +21,9 @@
 
 ---
 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amit-singh-ds&show_icons=true&theme=radical)
+
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/amit-singh-8599ab2bb
 - Email: ak9117443@gmail.com
