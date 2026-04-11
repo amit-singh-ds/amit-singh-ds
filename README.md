@@ -22,7 +22,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amit-singh-ds&show_icons=true&theme=radical)
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=amit-singh-ds&theme=radical)
 
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/amit-singh-8599ab2bb
