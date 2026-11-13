@@ -28,4 +28,4 @@
 
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/amit-singh-8599ab2bb
-- Email: ak9117443@gmail.com
+- Email: amitkumarsinghh221@gmail.com
